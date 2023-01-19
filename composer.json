@@ -1,5 +1,5 @@
 {
-    "name": "bastinald/laravel-livewire-loader",
+    "name": "nhanifah/laravel-livewire-loader",
     "homepage": "https://github.com/bastinald/laravel-livewire-loader",
     "description": "Laravel Livewire global loading spinner.",
     "license": "MIT",
